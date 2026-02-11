@@ -1,6 +1,6 @@
 ---
 title: 创建船只
-category: 教程
+category: Tutorials
 tags:
     - intermediate
 mentions:
@@ -167,4 +167,4 @@ description: 学习如何制作船只行为。
 
 ## 自定义受伤动画
 
-您可能也对[自定义受伤动画](file:///c/Users/MCxlm/Downloads/bedrock-wiki-wiki/bedrock-wiki-wiki/docs/visuals/custom-hurt-animations)感兴趣。
+您可能也对[自定义受伤动画](file:///c/Users/MCxlm/Downloads/bedrock-wiki-wiki/bedrock-wiki-wiki/docs/visuals/custom-hurt-animations)感兴趣.
