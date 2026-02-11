@@ -1,10 +1,10 @@
 ---
 title: 实体
 categories:
-    - title: 一般
+    - title: General
       color: blue
-    - title: 教程
+    - title: Tutorials
       color: green
-    - title: 文档
+    - title: Documentation
       color: red
 ---
