@@ -1,7 +1,6 @@
 ---
 title: 附着物
 description: 物品附着物文档。
-category: Documentation
 tags:
     - beginner
 mentions:
