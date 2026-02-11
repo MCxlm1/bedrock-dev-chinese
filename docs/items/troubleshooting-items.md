@@ -1,7 +1,6 @@
 ---
 title: 物品故障排除
 description: 物品的故障排除指南。
-category: General
 tags:
     - help
 mentions:

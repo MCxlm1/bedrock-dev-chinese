@@ -1,7 +1,6 @@
 ---
 title: 物品标签
 description: 物品标签用于检查多种类型的物品，可以启用原版功能。
-category: General
 nav_order: 3
 license: true
 mentions:

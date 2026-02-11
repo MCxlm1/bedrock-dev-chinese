@@ -1,7 +1,6 @@
 ---
 title: 自定义食物
 description: 了解如何创建自定义食物，当被消费时会给玩家带来效果（比如金苹果）。
-category: Tutorials
 tags:
     - easy
     - scripting

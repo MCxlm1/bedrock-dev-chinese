@@ -1,7 +1,6 @@
 ---
 title: 物品组件
 description: 物品组件用于更改物品在世界中的外观和功能。
-category: General
 nav_order: 2
 mentions:
     - SmokeyStack

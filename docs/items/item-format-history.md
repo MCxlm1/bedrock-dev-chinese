@@ -1,7 +1,6 @@
 ---
 title: 物品格式历史
 description: 每个Minecraft版本中数据驱动物品格式的所有更改列表。
-category: Documentation
 outline_depth: 2
 license: true
 mentions:

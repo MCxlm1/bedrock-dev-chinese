@@ -1,7 +1,6 @@
 ---
 title: 物品事件
 description: 当满足某些条件时触发物品事件。创建者可以挂钩这些事件以在事件触发时修改游戏世界。
-category: General
 nav_order: 4
 tags:
     - scripting

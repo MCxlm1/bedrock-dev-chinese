@@ -1,7 +1,6 @@
 ---
 title: 可投掷物品
 description: 了解如何创建可作为抛射物投掷的自定义物品。
-category: Tutorials
 tags:
     - intermediate
 mentions:

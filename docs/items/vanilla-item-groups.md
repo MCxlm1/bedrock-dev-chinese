@@ -1,7 +1,6 @@
 ---
 title: 原版物品组
 description: 物品组的列表。
-category: 文档
 ---
 
 ## 物品组

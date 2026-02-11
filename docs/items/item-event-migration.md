@@ -1,7 +1,6 @@
 ---
 title: 物品事件迁移
 description: 查看已弃用的JSON物品事件响应的脚本API实现。
-category: General
 nav_order: 5
 tags:
     - help

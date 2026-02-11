@@ -1,6 +1,5 @@
 ---
 title: 原版使用组件
-category: Documentation
 mentions:
     - MedicalJewel105
 description: 原版中使用的物品组件自动生成列表。

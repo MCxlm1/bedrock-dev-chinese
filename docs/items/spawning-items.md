@@ -1,7 +1,6 @@
 ---
 title: 生成物品
 description: 了解如何生成物品实体。
-category: Tutorials
 tags:
     - intermediate
 mentions:

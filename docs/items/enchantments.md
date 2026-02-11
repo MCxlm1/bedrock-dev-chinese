@@ -1,7 +1,6 @@
 ---
 title: 附魔
 description: 物品的附魔文档。
-category: Documentation
 nav_order: 5
 show_outline: false
 mentions:

@@ -1,7 +1,6 @@
 ---
 title: 物品简介
 description: 制作物品的"Hello world"指南。了解物品格式以及如何创建基本的自定义物品。
-category: General
 nav_order: 1
 tags:
     - guide

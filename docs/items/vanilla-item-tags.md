@@ -1,7 +1,6 @@
 ---
 title: 原版物品标签
 description: 物品标签的列表。
-category: Documentation
 ---
 
 ## 物品标签

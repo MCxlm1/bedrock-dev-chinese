@@ -1,6 +1,5 @@
 ---
 title: 完整版原版使用组件
-category: Documentation
 mentions:
     - MedicalJewel105
 description: 原版中使用的物品组件完整列表。

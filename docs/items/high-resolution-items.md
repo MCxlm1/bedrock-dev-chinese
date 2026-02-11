@@ -1,7 +1,6 @@
 ---
 title: 高分辨率物品
 description: 了解如何正确制作高分辨率纹理的物品。
-category: Tutorials
 mentions:
     - BlazeDrake
 ---

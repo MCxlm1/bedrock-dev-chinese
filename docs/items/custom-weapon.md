@@ -1,7 +1,6 @@
 ---
 title: 自定义武器
 description: 了解如何制作自定义武器。
-category: Tutorials
 tags:
     - easy
 mentions:

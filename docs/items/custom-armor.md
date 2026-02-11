@@ -1,7 +1,6 @@
 ---
 title: 自定义盔甲
 description: 了解如何制作一套自定义盔甲。
-category: Tutorials
 mentions:
     - SirLich
     - Dreamedc2015

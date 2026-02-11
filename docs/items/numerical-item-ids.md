@@ -1,6 +1,5 @@
 ---
 title: 数值物品ID
-category: Documentation
 description: 数值物品ID。
 ---
 

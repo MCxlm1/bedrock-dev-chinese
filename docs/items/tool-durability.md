@@ -1,6 +1,5 @@
 ---
 title: 工具耐久度
-category: Tutorials
 tags:
     - experimental
     - intermediate

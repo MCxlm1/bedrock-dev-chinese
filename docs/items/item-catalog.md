@@ -1,7 +1,6 @@
 ---
 title: 物品目录
 description: 了解如何指定物品在创造模式菜单和配方书中的显示位置，以及如何向创造模式菜单添加自己的可展开组。
-category: General
 license: true
 mentions:
     - Supernova3695

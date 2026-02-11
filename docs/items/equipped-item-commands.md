@@ -1,7 +1,6 @@
 ---
 title: 基于装备的命令
 description: 当特定物品被装备时运行命令。
-category: Tutorials
 tags:
     - intermediate
 mentions:

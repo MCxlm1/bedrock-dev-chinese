@@ -1,7 +1,6 @@
 ---
 title: 自定义陶片
 description: 了解如何制作自定义陶片。
-category: Tutorials
 tags:
     - easy
 license: true
