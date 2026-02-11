@@ -1,6 +1,6 @@
 ---
 title: 创建船只
-category: Tutorials
+category: 教程
 tags:
     - intermediate
 mentions:
